@@ -10,11 +10,9 @@ International Monetary Fund 2024, *Gen-AI: Artificial Intelligence and the Futur
 
 Jobs and Skills Australia 2025, *Our Gen AI Transition - Implications for Work and Skills*, Australian Government, Canberra.
 
-Jobs and Skills Australia 2025, *Generative AI to augment and advance the way we work in Australia*, viewed 21 April 2026.
+OECD 2024a, *Artificial intelligence, data and competition*, OECD Artificial Intelligence Papers, no. 18, OECD Publishing, Paris.
 
-OECD 2024, *Artificial intelligence, data and competition*, OECD Artificial Intelligence Papers, no. 18, OECD Publishing, Paris.
-
-OECD 2025, *AI and work*, viewed 21 April 2026.
+OECD 2025, *AI and work*, OECD, Paris.
 
 OpenAI 2026, *ChatGPT* [Large language model], accessed 21 April 2026. See Appendix A for prompt and output.
 
