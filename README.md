@@ -1,22 +1,22 @@
-# AI Labour Market Policy Proposal
+# ECON1626 Labour Policy Proposal
 
-This repository contains a 1,200-word policy proposal examining how artificial intelligence is affecting the labour market and recommending a government response.
-
-## Policy client
-Deputy Secretary, Employment & Skills
+This repository contains my Assessment 2 policy proposal for ECON1626.
 
 ## Repository contents
-- `proposal.md` — final policy proposal
-- `references.md` — reference list
-- `notes/research-notes.md` — planning and research notes
+
+- `proposal.md` — the final 1,200-word policy proposal
+- `references.md` — full reference list in RMIT Harvard style
+- `figures/` — optional visuals used in the proposal, if applicable
 
 ## Topic
-How government should respond to AI's effects on employment, tasks, wages, and industrial structure.
 
-## Key policy themes
-- Reskilling and workforce transition
-- Labour-market adjustment support
-- Competition and data policy interfaces
+This proposal advises an Australian government policy client on how to respond to AI’s impacts on the labour market, including effects on employment, tasks, wages, and industrial structure.
 
-## Submission
-This repository is intended for submission via GitHub, with the repository URL uploaded to Canvas.
+## Navigation
+
+Open `proposal.md` to read the final submission.  
+Open `references.md` to view the full reference list.
+
+## Technical notes
+
+This repository was written in Markdown and managed using Git and GitHub as required by the assessment brief.
